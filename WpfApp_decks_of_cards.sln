@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_decks_of_cards", "WpfApp_decks_of_cards\WpfApp_decks_of_cards.csproj", "{9569A72E-762F-4F06-BDC2-6EE5CE2F18EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9569A72E-762F-4F06-BDC2-6EE5CE2F18EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9569A72E-762F-4F06-BDC2-6EE5CE2F18EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9569A72E-762F-4F06-BDC2-6EE5CE2F18EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9569A72E-762F-4F06-BDC2-6EE5CE2F18EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED38ECD8-6C67-416D-8924-5A05004024E3}
+	EndGlobalSection
+EndGlobal
